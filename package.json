@@ -1,0 +1,25 @@
+{
+  "name": "matias-test-scaffold",
+  "version": "1.0.0",
+  "description": "脚手架发布测试",
+  "main": "index.js",
+  "bin": {
+    "bin-test": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiastang/test-scaffold.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiastang/test-scaffold/issues"
+  },
+  "homepage": "https://github.com/matiastang/test-scaffold#readme",
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
